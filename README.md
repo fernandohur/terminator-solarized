@@ -10,7 +10,7 @@ A color theme for [terminator](http://www.tenshu.net/terminator/) using Ethan Sc
   * `config` -  solarized theme for terminator (by [ghuntley](https://github.com/ghuntley))
 
 ## Usage
-Install the terminiator configuration file:
+Install the terminator configuration file:
 
     # mkdir -p ~/.config/terminator/
     # cp config ~/.config/terminator/
